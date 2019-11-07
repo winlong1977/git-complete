@@ -6,3 +6,6 @@ mmm... What a wonderful world with git.  I wish I can use it at work rather than
 
 Add text to address issue #3
 
+
+This is my personal branch for adding the new feature before merging into master.
+
