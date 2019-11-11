@@ -4,3 +4,6 @@ more content added
 Content added from VSCode.
 
 Latest change in github repository...  Edit on remote repository directly.
+
+More changes in master branch within Browser Editing...
+
