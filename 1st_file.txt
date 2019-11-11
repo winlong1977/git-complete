@@ -7,3 +7,4 @@ Latest change in github repository...  Edit on remote repository directly.
 
 More changes in master branch within Browser Editing...
 
+Even more changes within github remote repository.
